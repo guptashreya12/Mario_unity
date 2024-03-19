@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gold Ring
+* source:	https://sketchfab.com/3d-models/gold-ring-7565f8283ad84caeab80f9e44ad2c215
+* author:	Donjuan301 (https://sketchfab.com/Donjuan301)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gold Ring" (https://sketchfab.com/3d-models/gold-ring-7565f8283ad84caeab80f9e44ad2c215) by Donjuan301 (https://sketchfab.com/Donjuan301) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
